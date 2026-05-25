@@ -1,0 +1,9 @@
+# Ignore credentials
+credentials/
+credentials.*
+*.pem
+*.key
+.env
+*.env.*
+
+
